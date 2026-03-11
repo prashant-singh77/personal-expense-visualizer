@@ -44,7 +44,7 @@ Date,Category,Amount
 ## 💻 How to Run Locally
 
 # 1. Clone the repository
-git clone https://github.com/Athai111/personal-expense-visualizer.git
+git clone https://github.com/prashant-singh77/personal-expense-visualizer.git
 
 # 2. Change directory
 cd personal-expense-visualizer
@@ -108,7 +108,7 @@ personal-expense-visualizer/
 ---
 
 👤 Author :
-Made with ❤️ by Athai Mitra
-GitHub: https://github.com/Athai111
+Made with ❤️ by Prashant singh
+GitHub: https://github.com/prashant-singh77
 
 
